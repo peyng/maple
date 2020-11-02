@@ -94,7 +94,7 @@ a.p:hover span {
 </head>
 
 
-<body onload="alert('2020の栃木、深山湖の紅葉写真です')" onunload="alert('来年もまた見せてね〜(^o^)/')">
+<body onload="alert('2020深山湖@栃木の紅葉写真です')" onunload="alert('来年もまた見せてね〜(^o^)/')">
 <p class="note">
   モバイル端末をお使いの場合は、画面を横向きにすると
   より見やすくご覧頂けます。
@@ -103,10 +103,10 @@ a.p:hover span {
 <h1><span class="yellow"><marquee behavior="left">!!! 2020年10月31日_ダム湖の紅葉@栃木、深山ダム !!!</marquee></span></h1>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
-<a href="20201031_003.JPG" data-lightbox="abc"><img src="20201031_003.JPG" alt="サンプル画像" width="200" /></a>
-<a href="20201031_004.JPG" data-lightbox="abc"><img src="20201031_004.JPG" alt="サンプル画像" width="200" /></a>
-<a href="20201031_005.JPG" data-lightbox="abc"><img src="20201031_005.JPG" alt="サンプル画像" width="200" /></a>
-<a href="20201031_006.JPG" data-lightbox="abc"><img src="20201031_006.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20201031_003.JPG" data-lightbox="abc"><img src="20201031_003.JPG" alt="サンプル画像" width="800" /></a>
+<a href="20201031_004.JPG" data-lightbox="abc"><img src="20201031_004.JPG" alt="サンプル画像" width="800" /></a>
+<a href="20201031_005.JPG" data-lightbox="abc"><img src="20201031_005.JPG" alt="サンプル画像" width="800" /></a>
+<a href="20201031_006.JPG" data-lightbox="abc"><img src="20201031_006.JPG" alt="サンプル画像" width="800" /></a>
 <a href="20201031_007.JPG" data-lightbox="abc"><img src="20201031_007.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20201031_008.JPG" data-lightbox="abc"><img src="20201031_008.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20201031_009.JPG" data-lightbox="abc"><img src="20201031_009.JPG" alt="サンプル画像" width="200" /></a>
@@ -157,7 +157,7 @@ a.p:hover span {
 <p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p>
        <p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p>
 
-<p align="right"><marquee direction="left" scrollamount="10" width="80%">2020年10月３１日の紅葉＠栃木、深山湖 ~~~ (^^)/</marquee></p>
+<p align="right"><marquee direction="left" scrollamount="10" width="80%">2020年10月31日の紅葉＠栃木、深山湖 ~~~ (^^)/</marquee></p>
 
 
 
@@ -171,4 +171,4 @@ a.p:hover span {
 
 <!-- フッタ -->
  <footer>
-	<span class="grey">Copyright 2020/11/3 Sajyan</span>
+	<span class="snow">Copyright 2020/11/3 Sajyan</span>
