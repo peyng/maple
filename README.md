@@ -118,8 +118,8 @@ a.p:hover span {
 <a href="20201031_015.JPG" data-lightbox="abc"><img src="20201031_015.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20201031_016.JPG" data-lightbox="abc"><img src="20201031_016.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20201031_017.JPG" data-lightbox="abc"><img src="20201031_017.JPG" alt="サンプル画像" width="200" /></a>
-<a href="20201031_018.JPG" data-lightbox="abc"><img src="20201031_018.JPG" alt="サンプル画像" width="200" /></a>
-<a href="20201031_019.JPG" data-lightbox="abc"><img src="20201031_019.JPG" alt="サンプル画像" width="800" /></a>
+<a href="20201031_019.JPG" data-lightbox="abc"><img src="20201031_019.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20201031_018.JPG" data-lightbox="abc"><img src="20201031_018.JPG" alt="サンプル画像" width="800" /></a>
 <a href="20201031_020.JPG" data-lightbox="abc"><img src="20201031_020.JPG" alt="サンプル画像" width="800" /></a>
 <a href="20201031_021.JPG" data-lightbox="abc"><img src="20201031_021.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20201031_022.JPG" data-lightbox="abc"><img src="20201031_022.JPG" alt="サンプル画像" width="200" /></a>
@@ -150,7 +150,7 @@ a.p:hover span {
 <a href="20201031_002.JPG" data-lightbox="abc"><img src="20201031_002.JPG" alt="サンプル画像" width="200" /></a>
 
 <br><br>
-<h3><p>深山湖は宇都宮から、車で１時間強。那須エリアの南端部になります。</p></h3>
+<h5>深山湖は宇都宮から、車で１時間強。那須エリアの南端部になります。</h5>
 <a href="miyama.png" data-lightbox="abc"><img src="miyama.png" alt="サンプル画像" width="800" /></a>
 
 
