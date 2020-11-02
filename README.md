@@ -94,7 +94,7 @@ a.p:hover span {
 </head>
 
 
-<body onload="alert('2020の深山湖、紅葉写真です')" onunload="alert('来年もまた見せてね〜(^o^)/')">
+<body onload="alert('2020の栃木、深山湖の紅葉写真です')" onunload="alert('来年もまた見せてね〜(^o^)/')">
 <p class="note">
   モバイル端末をお使いの場合は、画面を横向きにすると
   より見やすくご覧頂けます。
@@ -157,7 +157,7 @@ a.p:hover span {
 <p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p>
        <p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p><p>&#160;</p>
 
-<p align="right"><marquee direction="left" scrollamount="10" width="80%">2020年10月３１日の紅葉＠栃木、深山湖でした ~~~ (^^)/</marquee></p>
+<p align="right"><marquee direction="left" scrollamount="10" width="80%">2020年10月３１日の紅葉＠栃木、深山湖 ~~~ (^^)/</marquee></p>
 
 
 
