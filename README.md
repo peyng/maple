@@ -150,7 +150,7 @@ a.p:hover span {
 <a href="20201031_002.JPG" data-lightbox="abc"><img src="20201031_002.JPG" alt="サンプル画像" width="200" /></a>
 
 <br><br>
-<h5>深山湖は宇都宮から、車で１時間強。那須エリアの南端部になります。</h5>
+<h3>深山湖は宇都宮から、車で１時間強。那須エリアの南端部になります。</h3>
 <a href="miyama.png" data-lightbox="abc"><img src="miyama.png" alt="サンプル画像" width="800" /></a>
 
 
