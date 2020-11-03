@@ -160,7 +160,7 @@ a.p:hover span {
  
 <p> 
 <a href="http://www.pref.tochigi.lg.jp/g57/index.html" target="_blank" class="p">深山ダムHPリンク
-	</p>
+
        
 <p>&#160;</p><p>&#160;</p>
 
