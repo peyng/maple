@@ -156,6 +156,8 @@ a.p:hover span {
 <h3>Google Maps Link</h3>
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d72409.9596524236!2d139.8565642704139!3d37.06928327979658!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x601f8c563415b02f%3A0x3f7cd66be122d632!2z5rex5bGx5rmW77yI44OA44Og77yJ!5e0!3m2!1sja!2sjp!4v1604365836998!5m2!1sja!2sjp" width="800" height="600" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
        
+<br><br>
+       
 <a href="http://www.pref.tochigi.lg.jp/g57/index.html" target="_blank" class="p">深山ダムHPリンク
        
        
